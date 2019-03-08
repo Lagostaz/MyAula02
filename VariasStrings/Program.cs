@@ -18,6 +18,7 @@ namespace VariasStrings
             string s5 = $"{1 + 1}";
             string s6 = $@"qwerty {4}";
             string s7 = String.Format("Olá {0} no.{1}", "mundo", 3);
+
             Console.WriteLine(s1);
             Console.WriteLine(s2);
             Console.WriteLine(s3);
