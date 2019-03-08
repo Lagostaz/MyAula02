@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariasStrings", "VariasStri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cilindro", "Cilindro\Cilindro.csproj", "{58603818-9BF2-4F4B-97CA-C29CB62779F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValoresEspeciais", "ValoresEspeciais\ValoresEspeciais.csproj", "{2CF32274-B700-4B20-B440-BBC10CE83A0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{58603818-9BF2-4F4B-97CA-C29CB62779F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58603818-9BF2-4F4B-97CA-C29CB62779F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58603818-9BF2-4F4B-97CA-C29CB62779F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF32274-B700-4B20-B440-BBC10CE83A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF32274-B700-4B20-B440-BBC10CE83A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF32274-B700-4B20-B440-BBC10CE83A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF32274-B700-4B20-B440-BBC10CE83A0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
